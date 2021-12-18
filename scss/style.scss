@@ -134,12 +134,7 @@ body {
         line-height: 40px;
     }
 }
-@media screen and (min-width: 1190px) {
-.about-us__text-section {
-display: flex;
-justify-content: space-between;
-}
-}
+
 
 .about-us__paragraph {
     width: 378px;
@@ -189,10 +184,6 @@ p :last-of-type {
         width: 834px;
         height: 590px;
     }
-}
-
-@media screen and (min-width: 1190px) {
-
 }
 
 .about-us__img {
